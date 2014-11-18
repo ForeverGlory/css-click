@@ -1,0 +1,19 @@
+.h1{
+    font-size: 40px;
+    color: brown;
+}
+.h1:click{
+    color: red;
+}
+.span:click{
+    color: blue;
+}
+.div:click .a .label{
+    color: yellow;
+}
+/*h1:hover{
+    color: yellow;
+}
+span:hover{
+    color: green;
+}*/
